@@ -1,4 +1,6 @@
-# SeyalFlow  - Organize. Track. Complete.
+# SeyalFlow - Organize. Track. Complete.
+
+🚀 **Live Demo**: [https://seyal-flow.vercel.app](https://seyal-flow.vercel.app)
 
 A full-stack Task Management Application built using Spring Boot, React, MySQL, and JWT Authentication.
 
@@ -224,7 +226,7 @@ http://localhost:5173
 - Dark/Light Theme Toggle
 - Search Tasks
 - Drag & Drop Tasks
-- Docker Support
+- ~~Docker Support~~ ✅ Done
 
 ---
 
